@@ -1,2 +1,2 @@
 # GuitarTuner
-Full project develop of a guitar tuner using programmable microcontrolers.
+Full project development of a guitar tuner using an FPGA.
